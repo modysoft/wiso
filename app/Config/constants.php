@@ -16,8 +16,8 @@ define("EMAIL_DELIVERY", "smtp");
 //Gmail SMTP
 define("SMTP_HOST", "ssl://smtp.gmail.com");
 define("SMTP_PORT", "465");
-define("SMTP_UNAME", "steps2space@gmail.com");
-define("SMTP_PWORD", "@Myselfone1");
+define("SMTP_UNAME", "YourGmailAccount@gmail.com");
+define("SMTP_PWORD", "Yourpassword");
 //https://www.arclab.com/en/amlc/list-of-smtp-and-imap-servers-mailserver-list.html (Get the list of Host names)
 
 ### OR ###
@@ -57,7 +57,7 @@ define('EMAIL_REPLY', "<div style='font-family:Arial;font-size:14px;color:#78787
 define('RELEASE',1); //Increase the release version on every CSS/JS changes to remove the browser cache
 
 ##################### Domain and URL Constants ############################
-define('SUB_FOLDER', 'tasks/'); //If your application URL followed by a folder name like: http://your-site.com/folder_name, put your folder name as 'folder_name/'
+define('SUB_FOLDER', '/'); //If your application URL followed by a folder name like: http://your-site.com/folder_name, put your folder name as 'folder_name/'
 
 if(php_sapi_name() === "cli") {
 	define('PROTOCOL', "http://");

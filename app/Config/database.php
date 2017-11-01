@@ -41,8 +41,8 @@ class DATABASE_CONFIG {
 		'persistent' => false,
 		'host' => 'localhost',
 		'login' => 'root',
-		'password' => '@Myself1',
-		'database' => 'wisetask',
+		'password' => 'password',
+		'database' => 'schema',
 		'prefix' => '',
 		'encoding' => 'utf8',
 	);
