@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00059be4-79f8-4958-b49f-bca2e87916f9" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$USER_HOME$/vendor/phpunit/phpunit/composer.json</pharConfigPath>
+    <executablePath>/usr/local/bin/composer</executablePath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="kanban_task.ctp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/View/Elements/kanban_task.ctp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="15" column="96" lean-forward="true" selection-start-line="15" selection-start-column="96" selection-end-line="15" selection-end-column="96" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>protyTtl</find>
+      <find>Reload</find>
+      <find>Edit</find>
+      <find>Archive</find>
+      <find>إعادة تحميل</find>
+      <find>Medium</find>
+      <find>Start</find>
+      <find>In Progress</find>
+      <find>Overdue</find>
+      <find>مشروع نجاح</find>
+      <find>مشروع نجـــاح هو الخطة</find>
+      <find>Task</find>
+      <find>Filters</find>
+      <find>Invite User</find>
+      <find>Enter a title</find>
+      <find>Email</find>
+      <find>Notify via Email</find>
+      <find>Notify via Email:</find>
+      <find>form</find>
+      <find>Est</find>
+      <find>Not</find>
+      <find>Notify</find>
+      <find>Cancel</find>
+      <find>رد</find>
+      <find>charset</find>
+      <find>email</find>
+      <find>ENT_QUOTES</find>
+      <find>$projNameInSh</find>
+      <find>$case_title</find>
+      <find>DONE DONE</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/app</dir>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/View/Projects/onbording_createproject.ctp" />
+        <option value="$PROJECT_DIR$/app/Controller/Component/PostcaseComponent.php" />
+        <option value="$PROJECT_DIR$/app/Controller/AppController.php" />
+        <option value="$PROJECT_DIR$/app/View/Elements/case_details.ctp" />
+        <option value="$PROJECT_DIR$/app/Config/constants.php" />
+        <option value="$PROJECT_DIR$/app/View/Elements/kanban_task.ctp" />
+        <option value="$PROJECT_DIR$/app/Controller/ProjectsController.php" />
+        <option value="/usr/local/etc/php/5.6/php.ini" />
+        <option value="$PROJECT_DIR$/app/Config/core.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="http://localhost" id="e6de96e2-17ee-4932-b3b3-796bb697c0b3" name="wisetask" use_path_mappings="true" />
+    </servers>
+  </component>
+  <component name="PhpWebServerValidation" path_to_validation_script="$PROJECT_DIR$" selected_validation_type="LOCAL" web_path_to_validation_script="http://localhost/tasks" />
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 5.6" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="709" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="tasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tasks" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="tasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tasks" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="tasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tasks" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="View" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="tasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.debug" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.splitter.proportion" value="0.24901575" />
+    <property name="Constants" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/Config" />
+      <recent name="$PROJECT_DIR$/app/View/Elements" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.kanban_task.ctp">
+    <configuration name="WiseTask" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" browser="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" server_name="wisetask" start_url="/tasks" />
+    <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/app/index.php" />
+    <configuration name="kanban_task.ctp" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/tasks/app/View/Elements/kanban_task.ctp" />
+    <configuration name="tasks" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="PHP Web Application.WiseTask" />
+      <item index="1" class="java.lang.String" itemvalue="PHPUnit.tasks" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.kanban_task.ctp" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index.php" />
+      <item index="4" class="java.lang.String" itemvalue="PHP Script.index.php" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.kanban_task.ctp" />
+        <item index="1" class="java.lang.String" itemvalue="PHP Script.index.php" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.php" />
+        <item index="3" class="java.lang.String" itemvalue="PHPUnit.tasks" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00059be4-79f8-4958-b49f-bca2e87916f9" name="Default" comment="" />
+      <created>1508230739455</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1508230739455</updated>
+      <workItem from="1508230742380" duration="2972000" />
+      <workItem from="1508233875481" duration="3951000" />
+      <workItem from="1508254599825" duration="430000" />
+      <workItem from="1508271695512" duration="386000" />
+      <workItem from="1508272120728" duration="15265000" />
+      <workItem from="1508320498739" duration="5943000" />
+      <workItem from="1508334891839" duration="13815000" />
+      <workItem from="1508509151903" duration="816000" />
+      <workItem from="1508517597093" duration="2606000" />
+      <workItem from="1508525179883" duration="357000" />
+      <workItem from="1508525626839" duration="6172000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="tasks - 2017.10.20 at 23h 10m 24s.xml">
+      <configuration name="tasks" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="tasks - 2017.10.20 at 23h 24m 22s.xml">
+      <configuration name="tasks" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="52713000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="709" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25078124" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.208" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.49921507" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4568289" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/app/webroot/EmailReply.php</url>
+          <line>838</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/app/webroot/index.php</url>
+          <line>66</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="5" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/View/Elements/kanban_task.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/View/Easycase/kanban_task.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/View/Easycase/ajax_assignto.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Config/constants.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Controller/AppController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Controller/AppController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Controller/AppController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Controller/EasycasesController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5400">
+          <caret line="360" column="82" lean-forward="false" selection-start-line="360" selection-start-column="63" selection-end-line="360" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Controller/Component/PostcaseComponent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6360">
+          <caret line="424" column="7" lean-forward="true" selection-start-line="424" selection-start-column="7" selection-end-line="424" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Controller/Component/PostcaseComponent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Controller/Component/PostcaseComponent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6255">
+          <caret line="417" column="14" lean-forward="false" selection-start-line="417" selection-start-column="14" selection-end-line="417" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/View/Projects/onbording_createproject.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1620">
+          <caret line="108" column="98" lean-forward="false" selection-start-line="108" selection-start-column="98" selection-end-line="108" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Controller/Component/PostcaseComponent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6255">
+          <caret line="417" column="14" lean-forward="true" selection-start-line="417" selection-start-column="14" selection-end-line="417" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/View/Projects/onbording_createproject.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1365">
+          <caret line="91" column="24" lean-forward="true" selection-start-line="91" selection-start-column="24" selection-end-line="91" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Controller/Component/PostcaseComponent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="410" column="20" lean-forward="true" selection-start-line="410" selection-start-column="20" selection-end-line="410" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/any/app/View/Easycase/ajax_breadcrumb.ctp" />
+    <entry file="file://$PROJECT_DIR$/app/webroot/js/jquery/jquery.pstrength-min.1.2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="49" lean-forward="false" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Controller/EasycasesController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="3802" column="17" lean-forward="false" selection-start-line="3802" selection-start-column="17" selection-end-line="3802" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/any/app/Controller/EasycasesController.php" />
+    <entry file="file://$PROJECT_DIR$/app/Config/install.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="273" column="32" lean-forward="false" selection-start-line="273" selection-start-column="22" selection-end-line="273" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/View/Elements/account_settings.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/View/Elements/case_details.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="511" column="94" lean-forward="true" selection-start-line="511" selection-start-column="94" selection-end-line="511" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Config/constants_tmp.php" />
+    <entry file="file://$PROJECT_DIR$/app/Config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="43" column="31" lean-forward="false" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Controller/AppController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="424" column="63" lean-forward="false" selection-start-line="424" selection-start-column="57" selection-end-line="424" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Config/constants.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="59" column="28" lean-forward="false" selection-start-line="59" selection-start-column="28" selection-end-line="59" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/View/Easycase/mydashboard.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/View/Easycase/ajax_assignto.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/View/Easycase/kanban_task.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/View/Elements/admin_footer_inner.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="49" lean-forward="true" selection-start-line="19" selection-start-column="49" selection-end-line="19" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Controller/ProjectsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="65" column="46" lean-forward="true" selection-start-line="65" selection-start-column="46" selection-end-line="65" selection-end-column="46" />
+          <folding>
+            <marker date="1508343568000" expanded="true" signature="4966:5245" ph="select User.... project_users" />
+            <marker date="1508343568000" expanded="true" signature="6263:6397" ph="SELECT id FR... projects" />
+            <marker date="1508343568000" expanded="true" signature="6620:6765" ph="SELECT id FR... projects" />
+            <marker date="1508343568000" expanded="true" signature="10131:10173" ph="UPDATE proje... " />
+            <marker date="1508343568000" expanded="true" signature="10431:10461" ph="DELETE FROM " />
+            <marker date="1508343568000" expanded="true" signature="10614:10657" ph="DELETE FROM " />
+            <marker date="1508343568000" expanded="true" signature="10923:10965" ph="UPDATE proje... " />
+            <marker date="1508343568000" expanded="true" signature="12005:12092" ph="SELECT name projects" />
+            <marker date="1508343568000" expanded="true" signature="12693:13666" ph="SELECT SQL_C... projects" />
+            <marker date="1508343568000" expanded="true" signature="12813:12951" ph="select count... easycases" />
+            <marker date="1508343568000" expanded="true" signature="12967:13122" ph="select ROUND... easycases" />
+            <marker date="1508343568000" expanded="true" signature="13139:13393" ph="select count... company_users" />
+            <marker date="1508343568000" expanded="true" signature="13408:13508" ph="SELECT SUM(c... case_files" />
+            <marker date="1508343568000" expanded="true" signature="13747:14678" ph="SELECT SQL_C... projects" />
+            <marker date="1508343568000" expanded="true" signature="13867:14005" ph="select count... easycases" />
+            <marker date="1508343568000" expanded="true" signature="14021:14176" ph="select ROUND... easycases" />
+            <marker date="1508343568000" expanded="true" signature="14193:14447" ph="select count... company_users" />
+            <marker date="1508343568000" expanded="true" signature="14462:14562" ph="SELECT SUM(c... case_files" />
+            <marker date="1508343568000" expanded="true" signature="14766:15709" ph="SELECT SQL_C... projects" />
+            <marker date="1508343568000" expanded="true" signature="14863:15001" ph="select count... easycases" />
+            <marker date="1508343568000" expanded="true" signature="15017:15172" ph="select ROUND... easycases" />
+            <marker date="1508343568000" expanded="true" signature="15189:15443" ph="select count... company_users" />
+            <marker date="1508343568000" expanded="true" signature="15458:15559" ph="SELECT SUM(c... case_files" />
+            <marker date="1508343568000" expanded="true" signature="15790:16690" ph="SELECT SQL_C... projects" />
+            <marker date="1508343568000" expanded="true" signature="15886:16024" ph="select count... easycases" />
+            <marker date="1508343568000" expanded="true" signature="16040:16195" ph="select ROUND... easycases" />
+            <marker date="1508343568000" expanded="true" signature="16212:16466" ph="select count... company_users" />
+            <marker date="1508343568000" expanded="true" signature="16481:16582" ph="SELECT SUM(c... case_files" />
+            <marker date="1508343568000" expanded="true" signature="16957:17146" ph="SELECT count... projects" />
+            <marker date="1508343568000" expanded="true" signature="17202:17343" ph="SELECT count... projects" />
+            <marker date="1508343568000" expanded="true" signature="22376:22418" ph="SELECT MAX(i... project_users" />
+            <marker date="1508343568000" expanded="true" signature="28742:28784" ph="SELECT MAX(i... project_users" />
+            <marker date="1508343568000" expanded="true" signature="29478:29543" ph="DELETE FROM " />
+            <marker date="1508343568000" expanded="true" signature="29720:29799" ph="UPDATE case_... " />
+            <marker date="1508343568000" expanded="true" signature="30176:30322" ph="INSERT INTO project_users... " />
+            <marker date="1508343568000" expanded="true" signature="30488:30567" ph="UPDATE case_... " />
+            <marker date="1508343568000" expanded="true" signature="31992:32438" ph="SELECT DISTI... users" />
+            <marker date="1508343568000" expanded="true" signature="32488:32884" ph="SELECT DISTI... users" />
+            <marker date="1508343568000" expanded="true" signature="32951:33429" ph="SELECT DISTI... users" />
+            <marker date="1508343568000" expanded="true" signature="33481:33908" ph="SELECT DISTI... users" />
+            <marker date="1508343568000" expanded="true" signature="35083:35125" ph="UPDATE proje... " />
+            <marker date="1508343568000" expanded="true" signature="35563:35593" ph="DELETE FROM " />
+            <marker date="1508343568000" expanded="true" signature="35746:35789" ph="DELETE FROM " />
+            <marker date="1508343568000" expanded="true" signature="36238:36280" ph="UPDATE proje... " />
+            <marker date="1508343568000" expanded="true" signature="37152:37228" ph="SELECT name projects" />
+            <marker date="1508343568000" expanded="true" signature="37749:38667" ph="SELECT SQL_C... projects" />
+            <marker date="1508343568000" expanded="true" signature="37835:37973" ph="select count... easycases" />
+            <marker date="1508343568000" expanded="true" signature="37989:38140" ph="select ROUND... easycases" />
+            <marker date="1508343568000" expanded="true" signature="38157:38410" ph="select count... company_users" />
+            <marker date="1508343568000" expanded="true" signature="38425:38528" ph="SELECT SUM(c... case_files" />
+            <marker date="1508343568000" expanded="true" signature="38746:39621" ph="SELECT SQL_C... projects" />
+            <marker date="1508343568000" expanded="true" signature="38831:38969" ph="select count... easycases" />
+            <marker date="1508343568000" expanded="true" signature="38985:39136" ph="select ROUND... easycases" />
+            <marker date="1508343568000" expanded="true" signature="39153:39406" ph="select count... company_users" />
+            <marker date="1508343568000" expanded="true" signature="39421:39524" ph="SELECT SUM(c... case_files" />
+            <marker date="1508343568000" expanded="true" signature="44087:44305" ph="SELECT * FRO... user_invitations" />
+            <marker date="1508343568000" expanded="true" signature="44674:44796" ph="UPDATE user_... " />
+            <marker date="1508343568000" expanded="true" signature="45333:45401" ph="DELETE FROM " />
+            <marker date="1508343568000" expanded="true" signature="46436:46779" ph="SELECT DISTI... users" />
+            <marker date="1508343568000" expanded="true" signature="46921:47336" ph="SELECT * FRO... users" />
+            <marker date="1508343568000" expanded="true" signature="47477:47820" ph="SELECT DISTI... users" />
+            <marker date="1508343568000" expanded="true" signature="48577:49048" ph="SELECT DISTI... users" />
+            <marker date="1508343568000" expanded="true" signature="49095:49562" ph="SELECT DISTI... users" />
+            <marker date="1508343568000" expanded="true" signature="49630:50101" ph="SELECT DISTI... users" />
+            <marker date="1508343568000" expanded="true" signature="50147:50614" ph="SELECT DISTI... users" />
+            <marker date="1508343568000" expanded="true" signature="51225:51267" ph="SELECT MAX(i... project_users" />
+            <marker date="1508343568000" expanded="true" signature="51970:52107" ph="INSERT INTO project_users... " />
+            <marker date="1508343568000" expanded="true" signature="54232:54302" ph="Delete FROM " />
+            <marker date="1508343568000" expanded="true" signature="62048:62368" ph="SELECT User.... users" />
+            <marker date="1508343568000" expanded="true" signature="62572:62939" ph="SELECT User.... users" />
+            <marker date="1508343568000" expanded="true" signature="63670:63829" ph="SELECT proje... project_users" />
+            <marker date="1508343568000" expanded="true" signature="65066:65357" ph="SELECT User.... users" />
+            <marker date="1508343568000" expanded="true" signature="67319:67388" ph="UPDATE proje... " />
+            <marker date="1508343568000" expanded="true" signature="67514:67583" ph="UPDATE proje... " />
+            <marker date="1508343568000" expanded="true" signature="72069:72410" ph="INSERT INTO custom_filters... " />
+            <marker date="1508343568000" expanded="true" signature="72869:73074" ph="SELECT SQL_C... custom_filters" />
+            <marker date="1508343568000" expanded="true" signature="90982:91146" ph="SELECT Proje... projects" />
+            <marker date="1508343568000" expanded="true" signature="92427:92495" ph="DELETE FROM " />
+            <marker date="1508343568000" expanded="true" signature="97936:97980" ph="DELETE FROM " />
+            <marker date="1508343568000" expanded="true" signature="98860:98928" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/View/Elements/manage_milestone.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1074">
+          <caret line="6" column="12" lean-forward="false" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/View/Elements/left_nav.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/View/Elements/metadata.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/View/Users/activity.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/etc/php/5.6/php.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="13" column="34" lean-forward="false" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/webroot/PHPMailer/test/phpmailerLangTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Model/Milestone.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-228">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Cake/Model/Datasource/DboSource.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="651">
+          <caret line="1771" column="44" lean-forward="true" selection-start-line="1771" selection-start-column="44" selection-end-line="1771" selection-end-column="44" />
+          <folding>
+            <marker date="1505891145000" expanded="true" signature="52094:52175" ph="SELECT ${{$f... " />
+            <marker date="1505891145000" expanded="true" signature="52217:52268" ph="INSERT INTO $... " />
+            <marker date="1505891145000" expanded="true" signature="52926:52973" ph="CREATE TABLE... $" />
+            <marker date="1505891145000" expanded="true" signature="82290:82344" ph="SELECT COUNT... " />
+            <marker date="1505891145000" expanded="true" signature="85208:85259" ph="INSERT INTO $... " />
+            <marker date="1505891145000" expanded="true" signature="89709:89720" ph="DROP TABLE $... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Cake/Core/App.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="902" column="0" lean-forward="false" selection-start-line="902" selection-start-column="0" selection-end-line="902" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Config/core.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="47" column="72" lean-forward="true" selection-start-line="47" selection-start-column="72" selection-end-line="47" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/webroot/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="91" column="0" lean-forward="false" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/View/Elements/kanban_task.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="15" column="96" lean-forward="true" selection-start-line="15" selection-start-column="96" selection-end-line="15" selection-end-column="96" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
